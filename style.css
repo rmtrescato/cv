@@ -64,5 +64,29 @@ h1, h2, h3 {
  padding: 20px;
 }
 
+#topo-forms {
+ background-color: rgb(225, 135, 56);
+ margin-top: 50px;
+ margin-bottom: 50px;
+}
 
+#cabecalho-forms {
+ background-color: white;
+ width: 650px;
+ margin: 0 auto;
+ text-align: center;
+ font-size: 30px;
+ font-family: 'Montserrat', sans-serif;
 
+}
+
+#formulario_captura {
+ display: grid;
+ place-items: center;
+ margin-bottom: 30px;
+ 
+}
+
+#input, #button {
+
+}
